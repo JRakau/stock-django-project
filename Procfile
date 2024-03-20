@@ -1,1 +1,1 @@
-web: gunicorn stock-django-project.wsgi
+web: gunicorn stock_quotes.wsgi
