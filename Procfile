@@ -1,1 +1,1 @@
-web: gunicorn stock_quotes.wsgi
+web: gunicorn stocks.wsgi
